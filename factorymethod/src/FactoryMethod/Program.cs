@@ -10,9 +10,9 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
-            BarChartFactory factory = new BarChartFactory();
-            Chart chart = factory.CreateChart();
-            chart.Draw();
+            FlowChartFactory factory = new FlowChartFactory();
+            var flowChart = factory.CreateChart();
+            flowChart.Draw();
             Console.ReadLine();
         }
     }

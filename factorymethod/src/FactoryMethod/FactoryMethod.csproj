@@ -46,6 +46,8 @@
     <Compile Include="BarChartFactory.cs" />
     <Compile Include="Chart.cs" />
     <Compile Include="ChartFactory.cs" />
+    <Compile Include="FlowChart.cs" />
+    <Compile Include="FlowChartFactory.cs" />
     <Compile Include="LineChart.cs" />
     <Compile Include="LineChartFactory.cs" />
     <Compile Include="PieChart.cs" />

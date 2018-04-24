@@ -5,3 +5,9 @@ D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\FactoryMetho
 D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
 D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
 D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\SourceCode\dotnet-design-pattern\factorymethod\src\FactoryMethod\bin\Debug\FactoryMethod.pdb

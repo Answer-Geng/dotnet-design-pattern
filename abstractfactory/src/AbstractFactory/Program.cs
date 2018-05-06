@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AbstractFactory
 {
@@ -10,6 +6,14 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
+            AbstractFactory factory = new WindowsFactory();
+            //AbstractFactory factory = new MacFactory();
+            var pieChart = factory.CreatePieChart();
+            var barChart = factory.CreateBarChart();
+            pieChart.Draw();
+            Console.WriteLine();
+            barChart.Draw();
+            Console.ReadLine();
         }
     }
 }

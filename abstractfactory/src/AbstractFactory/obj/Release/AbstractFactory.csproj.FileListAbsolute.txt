@@ -1,0 +1,5 @@
+E:\SourceCode\Github\dotnet-design-pattern\abstractfactory\src\AbstractFactory\bin\Release\AbstractFactory.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\abstractfactory\src\AbstractFactory\bin\Release\AbstractFactory.exe
+E:\SourceCode\Github\dotnet-design-pattern\abstractfactory\src\AbstractFactory\bin\Release\AbstractFactory.pdb
+E:\SourceCode\Github\dotnet-design-pattern\abstractfactory\src\AbstractFactory\obj\Release\AbstractFactory.exe
+E:\SourceCode\Github\dotnet-design-pattern\abstractfactory\src\AbstractFactory\obj\Release\AbstractFactory.pdb

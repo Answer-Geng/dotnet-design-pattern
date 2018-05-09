@@ -1,0 +1,7 @@
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\Builder\Builder\bin\Debug\Builder.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\Builder\bin\Debug\Builder.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\Builder\bin\Debug\Builder.exe
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\Builder\bin\Debug\Builder.pdb
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\Builder\obj\Debug\Builder.exe
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\Builder\obj\Debug\Builder.pdb

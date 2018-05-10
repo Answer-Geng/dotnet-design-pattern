@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\MailSample\bin\Debug\MailSample.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\MailSample\bin\Debug\MailSample.exe
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\MailSample\bin\Debug\MailSample.pdb
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\MailSample\obj\Debug\MailSample.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\MailSample\obj\Debug\MailSample.exe
+E:\SourceCode\Github\dotnet-design-pattern\builder\src\MailSample\obj\Debug\MailSample.pdb

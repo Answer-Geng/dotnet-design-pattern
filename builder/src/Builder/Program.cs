@@ -12,7 +12,7 @@ namespace Builder
         {
             TextReader reader = new TextReader("Text Content");
             ExcelReportBuilder builder = new ExcelReportBuilder();
-            reader.Parse(builder);
+            reader.Construct(builder);
             builder.GetResult().Show();
             Console.ReadLine();
         }

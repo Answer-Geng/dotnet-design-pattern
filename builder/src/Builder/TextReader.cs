@@ -1,20 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Builder
+﻿namespace Builder
 {
     class TextReader
     {
-        string text;
+        private string text;
         public TextReader(string text)
         {
             this.text = text;
         }
 
-        public void Parse(ReportBuilder reportBuilder)
+        public void Construct(ReportBuilder reportBuilder)
         {
             reportBuilder.SetReportName();
             reportBuilder.SetReportType();

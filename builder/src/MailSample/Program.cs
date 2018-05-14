@@ -10,11 +10,11 @@ namespace MailSample
     {
         static void Main(string[] args)
         {
-            List<string> to = new List<string> { "xxxx@xxx.com" };
+            List<string> to = new List<string> { "xxx@xxx.com" };
             MailBuilder mail = new MailBuilder();
             mail.Subject($"{DateTime.Now}")
                 .Body("Test")
-                .MailFrom("xxxx@xxx.com")
+                .MailFrom("xxxx@xxxx.com")
                 .MailTo(to)
                 .Send();
         }

@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\prototype\src\Prototype\bin\Debug\Prototype.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\prototype\src\Prototype\bin\Debug\Prototype.exe
+E:\SourceCode\Github\dotnet-design-pattern\prototype\src\Prototype\bin\Debug\Prototype.pdb
+E:\SourceCode\Github\dotnet-design-pattern\prototype\src\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\prototype\src\Prototype\obj\Debug\Prototype.exe
+E:\SourceCode\Github\dotnet-design-pattern\prototype\src\Prototype\obj\Debug\Prototype.pdb

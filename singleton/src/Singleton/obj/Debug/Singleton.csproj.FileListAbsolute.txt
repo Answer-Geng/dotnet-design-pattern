@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\singleton\src\Singleton\bin\Debug\Singleton.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\singleton\src\Singleton\bin\Debug\Singleton.exe
+E:\SourceCode\Github\dotnet-design-pattern\singleton\src\Singleton\bin\Debug\Singleton.pdb
+E:\SourceCode\Github\dotnet-design-pattern\singleton\src\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\singleton\src\Singleton\obj\Debug\Singleton.exe
+E:\SourceCode\Github\dotnet-design-pattern\singleton\src\Singleton\obj\Debug\Singleton.pdb

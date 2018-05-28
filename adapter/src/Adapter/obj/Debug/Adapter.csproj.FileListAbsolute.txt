@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\adapter\src\Adapter\bin\Debug\Adapter.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\adapter\src\Adapter\bin\Debug\Adapter.exe
+E:\SourceCode\Github\dotnet-design-pattern\adapter\src\Adapter\bin\Debug\Adapter.pdb
+E:\SourceCode\Github\dotnet-design-pattern\adapter\src\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\adapter\src\Adapter\obj\Debug\Adapter.exe
+E:\SourceCode\Github\dotnet-design-pattern\adapter\src\Adapter\obj\Debug\Adapter.pdb

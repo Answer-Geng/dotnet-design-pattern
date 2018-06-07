@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\composite\src\Composite\bin\Debug\Composite.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\composite\src\Composite\bin\Debug\Composite.exe
+E:\SourceCode\Github\dotnet-design-pattern\composite\src\Composite\bin\Debug\Composite.pdb
+E:\SourceCode\Github\dotnet-design-pattern\composite\src\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\composite\src\Composite\obj\Debug\Composite.exe
+E:\SourceCode\Github\dotnet-design-pattern\composite\src\Composite\obj\Debug\Composite.pdb

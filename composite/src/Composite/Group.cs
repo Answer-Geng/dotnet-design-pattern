@@ -8,7 +8,7 @@ namespace Composite
 {
     class Group : AbstractEmail
     {
-        private List<AbstractEmail> EmailGroup = new List<AbstractEmail>();
+        private List<AbstractEmail> EmailList = new List<AbstractEmail>();
         private string groupName;
         public Group(string groupName)
         {
@@ -19,18 +19,23 @@ namespace Composite
         {
             foreach (var mail in mails)
             {
-                EmailGroup.Add(mail);
+                EmailList.Add(mail);
             }
+        }
+
+        public void Remove(AbstractEmail mail)
+        {
+            EmailList.Remove(mail);
         }
 
         public AbstractEmail GetChild(int index)
         {
-            return EmailGroup[index];
+            return EmailList[index];
         }
 
         public override void Print()
         {
-            foreach (var mail in EmailGroup)
+            foreach (var mail in EmailList)
             {
                 mail.Print();
             }

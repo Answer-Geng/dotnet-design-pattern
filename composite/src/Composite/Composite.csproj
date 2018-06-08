@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="Email.cs" />
     <Compile Include="Group.cs" />
-    <Compile Include="AbstractEmail.cs" />
+    <Compile Include="IEmail.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

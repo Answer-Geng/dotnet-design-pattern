@@ -6,36 +6,36 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
-    class Group : AbstractEmail
+    class Group : IEmail
     {
-        private List<AbstractEmail> EmailList = new List<AbstractEmail>();
+        private List<IEmail> emailList = new List<IEmail>();
         private string groupName;
         public Group(string groupName)
         {
             this.groupName = groupName;
         }
         
-        public void Add(params AbstractEmail[] mails)
+        public void Add(params IEmail[] mails)
         {
             foreach (var mail in mails)
             {
-                EmailList.Add(mail);
+                emailList.Add(mail);
             }
         }
 
-        public void Remove(AbstractEmail mail)
+        public void Remove(IEmail mail)
         {
-            EmailList.Remove(mail);
+            emailList.Remove(mail);
         }
 
-        public AbstractEmail GetChild(int index)
+        public IEmail GetChild(int index)
         {
-            return EmailList[index];
+            return emailList[index];
         }
 
-        public override void Print()
+        public void Print()
         {
-            foreach (var mail in EmailList)
+            foreach (var mail in emailList)
             {
                 mail.Print();
             }

@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
-    class Email : AbstractEmail
+    class Email : IEmail
     {
+        public string Name { get; set; }
+        public string EmailAddress { get; set; }
         public Email(string name,string address)
         {
             this.Name = name;
             this.EmailAddress = address;
         }
-        public override void Print()
+        public void Print()
         {
             Console.WriteLine($"Name:{Name} , EmailAddress:{EmailAddress}");
         }

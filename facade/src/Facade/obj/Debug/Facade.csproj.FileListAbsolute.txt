@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\facade\src\Facade\bin\Debug\Facade.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\facade\src\Facade\bin\Debug\Facade.exe
+E:\SourceCode\Github\dotnet-design-pattern\facade\src\Facade\bin\Debug\Facade.pdb
+E:\SourceCode\Github\dotnet-design-pattern\facade\src\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\facade\src\Facade\obj\Debug\Facade.exe
+E:\SourceCode\Github\dotnet-design-pattern\facade\src\Facade\obj\Debug\Facade.pdb

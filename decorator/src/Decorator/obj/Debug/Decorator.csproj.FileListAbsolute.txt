@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\decorator\src\Decorator\bin\Debug\Decorator.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\decorator\src\Decorator\bin\Debug\Decorator.exe
+E:\SourceCode\Github\dotnet-design-pattern\decorator\src\Decorator\bin\Debug\Decorator.pdb
+E:\SourceCode\Github\dotnet-design-pattern\decorator\src\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\decorator\src\Decorator\obj\Debug\Decorator.exe
+E:\SourceCode\Github\dotnet-design-pattern\decorator\src\Decorator\obj\Debug\Decorator.pdb

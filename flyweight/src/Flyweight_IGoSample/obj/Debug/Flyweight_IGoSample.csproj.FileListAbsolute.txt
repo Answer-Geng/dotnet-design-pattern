@@ -1,0 +1,5 @@
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\Flyweight_IGoSample\bin\Debug\Flyweight_IGoSample.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\Flyweight_IGoSample\bin\Debug\Flyweight_IGoSample.exe
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\Flyweight_IGoSample\bin\Debug\Flyweight_IGoSample.pdb
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\Flyweight_IGoSample\obj\Debug\Flyweight_IGoSample.exe
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\Flyweight_IGoSample\obj\Debug\Flyweight_IGoSample.pdb

@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\FlyWeight\bin\Debug\FlyWeight.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\FlyWeight\bin\Debug\FlyWeight.exe
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\FlyWeight\bin\Debug\FlyWeight.pdb
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\FlyWeight\obj\Debug\FlyWeight.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\FlyWeight\obj\Debug\FlyWeight.exe
+E:\SourceCode\Github\dotnet-design-pattern\flyweight\src\FlyWeight\obj\Debug\FlyWeight.pdb

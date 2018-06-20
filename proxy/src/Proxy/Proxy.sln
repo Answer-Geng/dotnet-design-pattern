@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{598FAFDC-A62E-4843-9800-51B7B8A38C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy_InternetSample", "Proxy_InternetSample\Proxy_InternetSample.csproj", "{0C763D39-004B-45CC-BB64-7C2C378CFBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598FAFDC-A62E-4843-9800-51B7B8A38C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598FAFDC-A62E-4843-9800-51B7B8A38C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598FAFDC-A62E-4843-9800-51B7B8A38C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598FAFDC-A62E-4843-9800-51B7B8A38C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C763D39-004B-45CC-BB64-7C2C378CFBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C763D39-004B-45CC-BB64-7C2C378CFBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C763D39-004B-45CC-BB64-7C2C378CFBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C763D39-004B-45CC-BB64-7C2C378CFBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

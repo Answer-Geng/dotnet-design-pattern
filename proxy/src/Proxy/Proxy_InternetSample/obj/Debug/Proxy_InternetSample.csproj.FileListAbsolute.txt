@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy_InternetSample\bin\Debug\Proxy_InternetSample.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy_InternetSample\bin\Debug\Proxy_InternetSample.exe
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy_InternetSample\bin\Debug\Proxy_InternetSample.pdb
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy_InternetSample\obj\Debug\Proxy_InternetSample.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy_InternetSample\obj\Debug\Proxy_InternetSample.exe
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy_InternetSample\obj\Debug\Proxy_InternetSample.pdb

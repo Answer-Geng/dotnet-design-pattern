@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy\bin\Debug\Proxy.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy\bin\Debug\Proxy.exe
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy\bin\Debug\Proxy.pdb
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy\obj\Debug\Proxy.exe
+E:\SourceCode\Github\dotnet-design-pattern\proxy\src\Proxy\Proxy\obj\Debug\Proxy.pdb

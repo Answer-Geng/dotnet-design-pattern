@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command\bin\Debug\Command.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command\bin\Debug\Command.exe
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command\bin\Debug\Command.pdb
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command\obj\Debug\Command.exe
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command\obj\Debug\Command.pdb

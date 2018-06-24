@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command_RemoteControl\bin\Debug\Command_RemoteControl.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command_RemoteControl\bin\Debug\Command_RemoteControl.exe
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command_RemoteControl\bin\Debug\Command_RemoteControl.pdb
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command_RemoteControl\obj\Debug\Command_RemoteControl.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command_RemoteControl\obj\Debug\Command_RemoteControl.exe
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command_RemoteControl\obj\Debug\Command_RemoteControl.pdb

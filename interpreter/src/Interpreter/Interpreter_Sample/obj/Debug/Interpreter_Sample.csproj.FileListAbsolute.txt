@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\interpreter\src\Interpreter\Interpreter_Sample\bin\Debug\Interpreter_Sample.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\interpreter\src\Interpreter\Interpreter_Sample\bin\Debug\Interpreter_Sample.exe
+E:\SourceCode\Github\dotnet-design-pattern\interpreter\src\Interpreter\Interpreter_Sample\bin\Debug\Interpreter_Sample.pdb
+E:\SourceCode\Github\dotnet-design-pattern\interpreter\src\Interpreter\Interpreter_Sample\obj\Debug\Interpreter_Sample.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\interpreter\src\Interpreter\Interpreter_Sample\obj\Debug\Interpreter_Sample.exe
+E:\SourceCode\Github\dotnet-design-pattern\interpreter\src\Interpreter\Interpreter_Sample\obj\Debug\Interpreter_Sample.pdb

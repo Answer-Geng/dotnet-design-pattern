@@ -1,0 +1,1 @@
+E:\SourceCode\Github\dotnet-design-pattern\command\src\Command\Command_MusicPlayer\bin\Debug\Command_MusicPlayer.exe.config

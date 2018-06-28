@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator\bin\Debug\Iterator.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator\bin\Debug\Iterator.exe
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator\bin\Debug\Iterator.pdb
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator\obj\Debug\Iterator.exe
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator\obj\Debug\Iterator.pdb

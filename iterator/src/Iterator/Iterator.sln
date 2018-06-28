@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{9085B9D5-CE99-4C8B-B977-774BD4AEE318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator_MusicPlayer", "Iterator_MusicPlayer\Iterator_MusicPlayer.csproj", "{0B3FAA3E-9FCA-43F0-81D3-0B00141E540B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9085B9D5-CE99-4C8B-B977-774BD4AEE318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9085B9D5-CE99-4C8B-B977-774BD4AEE318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9085B9D5-CE99-4C8B-B977-774BD4AEE318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9085B9D5-CE99-4C8B-B977-774BD4AEE318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3FAA3E-9FCA-43F0-81D3-0B00141E540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3FAA3E-9FCA-43F0-81D3-0B00141E540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3FAA3E-9FCA-43F0-81D3-0B00141E540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3FAA3E-9FCA-43F0-81D3-0B00141E540B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

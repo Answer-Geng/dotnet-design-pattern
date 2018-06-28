@@ -1,0 +1,6 @@
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator_MusicPlayer\bin\Debug\Iterator_MusicPlayer.exe.config
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator_MusicPlayer\bin\Debug\Iterator_MusicPlayer.exe
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator_MusicPlayer\bin\Debug\Iterator_MusicPlayer.pdb
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator_MusicPlayer\obj\Debug\Iterator_MusicPlayer.csprojResolveAssemblyReference.cache
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator_MusicPlayer\obj\Debug\Iterator_MusicPlayer.exe
+E:\SourceCode\Github\dotnet-design-pattern\iterator\src\Iterator\Iterator_MusicPlayer\obj\Debug\Iterator_MusicPlayer.pdb

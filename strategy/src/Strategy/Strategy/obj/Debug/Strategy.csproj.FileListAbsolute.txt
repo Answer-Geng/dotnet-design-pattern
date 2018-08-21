@@ -1,0 +1,12 @@
+C:\Users\56662\AppData\Local\Temporary Projects\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\56662\AppData\Local\Temporary Projects\Strategy\bin\Debug\Strategy.exe
+C:\Users\56662\AppData\Local\Temporary Projects\Strategy\bin\Debug\Strategy.pdb
+C:\Users\56662\AppData\Local\Temporary Projects\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\56662\AppData\Local\Temporary Projects\Strategy\obj\Debug\Strategy.exe
+C:\Users\56662\AppData\Local\Temporary Projects\Strategy\obj\Debug\Strategy.pdb
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy\bin\Debug\Strategy.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy\obj\Debug\Strategy.exe
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy\bin\Debug\Strategy.exe
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache

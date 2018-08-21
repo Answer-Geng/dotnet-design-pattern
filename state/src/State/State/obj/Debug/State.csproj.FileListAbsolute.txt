@@ -1,0 +1,12 @@
+C:\Users\56662\AppData\Local\Temporary Projects\State\bin\Debug\State.exe.config
+C:\Users\56662\AppData\Local\Temporary Projects\State\bin\Debug\State.exe
+C:\Users\56662\AppData\Local\Temporary Projects\State\bin\Debug\State.pdb
+C:\Users\56662\AppData\Local\Temporary Projects\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\56662\AppData\Local\Temporary Projects\State\obj\Debug\State.exe
+C:\Users\56662\AppData\Local\Temporary Projects\State\obj\Debug\State.pdb
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State\bin\Debug\State.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State\obj\Debug\State.exe
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State\obj\Debug\State.pdb
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State\bin\Debug\State.exe
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State\bin\Debug\State.pdb
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State\obj\Debug\State.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer_Sample\bin\Debug\Observer_Sample.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer_Sample\bin\Debug\Observer_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer_Sample\bin\Debug\Observer_Sample.pdb
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer_Sample\obj\Debug\Observer_Sample.csprojResolveAssemblyReference.cache
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer_Sample\obj\Debug\Observer_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer_Sample\obj\Debug\Observer_Sample.pdb

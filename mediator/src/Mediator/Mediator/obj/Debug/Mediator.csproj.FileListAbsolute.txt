@@ -1,0 +1,7 @@
+C:\Users\56662\AppData\Local\Temporary Projects\Mediator\bin\Debug\Mediator.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\mediator\src\Mediator\Mediator\bin\Debug\Mediator.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\mediator\src\Mediator\Mediator\bin\Debug\Mediator.exe
+D:\SourceCode\Github\dotnet-design-pattern\mediator\src\Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\SourceCode\Github\dotnet-design-pattern\mediator\src\Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+D:\SourceCode\Github\dotnet-design-pattern\mediator\src\Mediator\Mediator\obj\Debug\Mediator.exe
+D:\SourceCode\Github\dotnet-design-pattern\mediator\src\Mediator\Mediator\obj\Debug\Mediator.pdb

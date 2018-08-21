@@ -1,0 +1,6 @@
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento_Sample\bin\Debug\Memento_Sample.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento_Sample\bin\Debug\Memento_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento_Sample\bin\Debug\Memento_Sample.pdb
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento_Sample\obj\Debug\Memento_Sample.csprojResolveAssemblyReference.cache
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento_Sample\obj\Debug\Memento_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento_Sample\obj\Debug\Memento_Sample.pdb

@@ -1,0 +1,6 @@
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod_Sample\bin\Debug\TemplateMethod_Sample.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod_Sample\bin\Debug\TemplateMethod_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod_Sample\bin\Debug\TemplateMethod_Sample.pdb
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod_Sample\obj\Debug\TemplateMethod_Sample.csprojResolveAssemblyReference.cache
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod_Sample\obj\Debug\TemplateMethod_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod_Sample\obj\Debug\TemplateMethod_Sample.pdb

@@ -1,0 +1,9 @@
+C:\Users\56662\AppData\Local\Temporary Projects\Memento\bin\Debug\Memento.exe.config
+C:\Users\56662\AppData\Local\Temporary Projects\Memento\bin\Debug\Memento.exe
+C:\Users\56662\AppData\Local\Temporary Projects\Memento\bin\Debug\Memento.pdb
+C:\Users\56662\AppData\Local\Temporary Projects\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Users\56662\AppData\Local\Temporary Projects\Memento\obj\Debug\Memento.exe
+C:\Users\56662\AppData\Local\Temporary Projects\Memento\obj\Debug\Memento.pdb
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento\bin\Debug\Memento.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento\obj\Debug\Memento.exe
+D:\SourceCode\Github\dotnet-design-pattern\memento\src\Memento\Memento\obj\Debug\Memento.pdb

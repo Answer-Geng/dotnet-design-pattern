@@ -1,0 +1,9 @@
+C:\Users\56662\AppData\Local\Temporary Projects\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\56662\AppData\Local\Temporary Projects\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\56662\AppData\Local\Temporary Projects\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\56662\AppData\Local\Temporary Projects\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\56662\AppData\Local\Temporary Projects\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\56662\AppData\Local\Temporary Projects\TemplateMethod\obj\Debug\TemplateMethod.pdb
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\SourceCode\Github\dotnet-design-pattern\templatemethod\src\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb

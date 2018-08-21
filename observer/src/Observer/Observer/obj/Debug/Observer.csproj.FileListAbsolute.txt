@@ -1,0 +1,9 @@
+C:\Users\56662\AppData\Local\Temporary Projects\Observer\bin\Debug\Observer.exe.config
+C:\Users\56662\AppData\Local\Temporary Projects\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\56662\AppData\Local\Temporary Projects\Observer\bin\Debug\Observer.exe
+C:\Users\56662\AppData\Local\Temporary Projects\Observer\bin\Debug\Observer.pdb
+C:\Users\56662\AppData\Local\Temporary Projects\Observer\obj\Debug\Observer.exe
+C:\Users\56662\AppData\Local\Temporary Projects\Observer\obj\Debug\Observer.pdb
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer\bin\Debug\Observer.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer\obj\Debug\Observer.exe
+D:\SourceCode\Github\dotnet-design-pattern\observer\src\Observer\Observer\obj\Debug\Observer.pdb

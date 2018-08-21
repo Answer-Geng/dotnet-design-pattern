@@ -1,0 +1,6 @@
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy_Sample\bin\Debug\Strategy_Sample.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy_Sample\bin\Debug\Strategy_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy_Sample\bin\Debug\Strategy_Sample.pdb
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy_Sample\obj\Debug\Strategy_Sample.csprojResolveAssemblyReference.cache
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy_Sample\obj\Debug\Strategy_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\strategy\src\Strategy\Strategy_Sample\obj\Debug\Strategy_Sample.pdb

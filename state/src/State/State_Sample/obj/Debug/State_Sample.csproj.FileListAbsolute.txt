@@ -1,0 +1,6 @@
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State_Sample\bin\Debug\State_Sample.exe.config
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State_Sample\bin\Debug\State_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State_Sample\bin\Debug\State_Sample.pdb
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State_Sample\obj\Debug\State_Sample.csprojResolveAssemblyReference.cache
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State_Sample\obj\Debug\State_Sample.exe
+D:\SourceCode\Github\dotnet-design-pattern\state\src\State\State_Sample\obj\Debug\State_Sample.pdb
